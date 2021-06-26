@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b871d46e55944a43b1c6ff9eec0103f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Harmond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f5fc071c64ff45d4b8f3fa7fa05bf7c6, type: 3}
+  - {fileID: 12800000, guid: 0a9e12fc7a04b1640a3d620fb9c9c021, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

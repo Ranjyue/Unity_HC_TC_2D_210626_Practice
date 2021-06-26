@@ -1,0 +1,688 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.1052; Version 2004; 64bit' Language: 'zh' Physical Memory: 8073 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+E:/Unity/Unity_HC_TC_2D_210626_Practice/2D Game Tarea 1
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50908
+Successfully changed project path to: E:/Unity/Unity_HC_TC_2D_210626_Practice/2D Game Tarea 1
+E:/Unity/Unity_HC_TC_2D_210626_Practice/2D Game Tarea 1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 225.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path E:/Unity/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity/Unity_HC_TC_2D_210626_Practice/2D Game Tarea 1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     4036 MB
+    Driver:   22.20.16.4691
+Initialize mono
+Mono path[0] = 'E:/Unity/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004580 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 77.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.113 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 101.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.527 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 6.982100 ms (FindLiveObjects: 0.436600 ms CreateObjectMapping: 0.212000 ms MarkObjects: 6.044100 ms  DeleteObjects: 0.287000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/01_KID_LOGO_GRAY_1024.png
+  artifactKey: Guid(62a886b9fa359704da48d9ceebe2633c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_KID_LOGO_GRAY_1024.png using Guid(62a886b9fa359704da48d9ceebe2633c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f11788bfba15ea9910509c4e506f01') in 0.471821 seconds 
+  Import took 0.513655 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014493 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.578 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2523.
+Total: 5.482700 ms (FindLiveObjects: 0.547100 ms CreateObjectMapping: 0.238100 ms MarkObjects: 4.499100 ms  DeleteObjects: 0.195300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2754.927695 seconds.
+  path: Assets/FONTS
+  artifactKey: Guid(173a96ac05627d045a7944aee69e80f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS using Guid(173a96ac05627d045a7944aee69e80f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b25e177fec9328fe3ce19eb6fcba2be') in 0.138648 seconds 
+  Import took 0.315673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.790244 seconds.
+  path: Assets/FONTS/Saphira DEMO.otf
+  artifactKey: Guid(4a658a5d3d3080544a89a1bc28db0c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Saphira DEMO.otf using Guid(4a658a5d3d3080544a89a1bc28db0c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0bae26389d245036f23d38c268f448') in 0.449742 seconds 
+  Import took 0.472634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.619072 seconds.
+  path: Assets/FONTS/HanyiSentyLingfeiScroll.ttf
+  artifactKey: Guid(1d7800e339ea1b44489198a645ff191c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/HanyiSentyLingfeiScroll.ttf using Guid(1d7800e339ea1b44489198a645ff191c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067f76e69442c4e94b0d42c8a95aba0a') in 0.044336 seconds 
+  Import took 0.081629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.117403 seconds.
+  path: Assets/FONTS/Rubik-Black.ttf
+  artifactKey: Guid(37a520c59094dad43a11e5fa851fabc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-Black.ttf using Guid(37a520c59094dad43a11e5fa851fabc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5622c3c8834222aa65f44cb3804b09') in 0.115184 seconds 
+  Import took 0.142534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/FONTS/Rubik-LightItalic.ttf
+  artifactKey: Guid(ec2151991d1c52345878682c7b99762c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-LightItalic.ttf using Guid(ec2151991d1c52345878682c7b99762c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c575eb213641daa09d82eab874bba0') in 0.043860 seconds 
+  Import took 0.088391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004553 seconds.
+  path: Assets/FONTS/Rubik-ExtraBold.ttf
+  artifactKey: Guid(7ef717c6fc2c4f04dbfa304888585d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-ExtraBold.ttf using Guid(7ef717c6fc2c4f04dbfa304888585d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '475ff8a95b7976e4fa2c362d4620e498') in 0.085018 seconds 
+  Import took 0.104047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002125 seconds.
+  path: Assets/FONTS/Rubik-ExtraBoldItalic.ttf
+  artifactKey: Guid(0955e81fe5e94b14d9a31b24c6f5ad5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-ExtraBoldItalic.ttf using Guid(0955e81fe5e94b14d9a31b24c6f5ad5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45923c3601ffa5381a0e38734975931c') in 0.073459 seconds 
+  Import took 0.085075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/FONTS/Rubik-Italic.ttf
+  artifactKey: Guid(832e0b030c429ef4c806f7b9ac58846f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-Italic.ttf using Guid(832e0b030c429ef4c806f7b9ac58846f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea9929f2f4d575211267dd3f693c613') in 0.078349 seconds 
+  Import took 0.101232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000678 seconds.
+  path: Assets/FONTS/Rubik-Bold.ttf
+  artifactKey: Guid(155a97e12d3f1ad4fa5deeeafbd53291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-Bold.ttf using Guid(155a97e12d3f1ad4fa5deeeafbd53291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '235b90da93a54ce6afe68b0e6c98d8a3') in 0.138837 seconds 
+  Import took 0.147641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/FONTS/Rubik-BoldItalic.ttf
+  artifactKey: Guid(8bf251a31ed492b4a8fcc2f7b484a8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-BoldItalic.ttf using Guid(8bf251a31ed492b4a8fcc2f7b484a8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd17c1d5cba5037fe487609d877bd90') in 0.026302 seconds 
+  Import took 0.039050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/FONTS/Rubik-Light.ttf
+  artifactKey: Guid(2a848adea4dc5fe48a84ec846e0f1b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-Light.ttf using Guid(2a848adea4dc5fe48a84ec846e0f1b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62df4b288eb9906b288b9827fd7d541d') in 0.101126 seconds 
+  Import took 0.121132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/FONTS/Rubik-BlackItalic.ttf
+  artifactKey: Guid(3e45e808604aef647b64369d0125bb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-BlackItalic.ttf using Guid(3e45e808604aef647b64369d0125bb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a7483d9fb871b5511032c332a38913') in 0.035568 seconds 
+  Import took 0.048332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/FONTS/Rubik-Medium.ttf
+  artifactKey: Guid(c88bac3c9d88ba3458ffb05645f5c792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-Medium.ttf using Guid(c88bac3c9d88ba3458ffb05645f5c792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d3a9734e06a2e27bda06a566ddce04') in 0.080341 seconds 
+  Import took 0.092601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001339 seconds.
+  path: Assets/FONTS/Rubik-Regular.ttf
+  artifactKey: Guid(e4443f7feac76994ca8956675479ce06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-Regular.ttf using Guid(e4443f7feac76994ca8956675479ce06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e104ffaa7aff437edcd855aa6f75ef') in 0.029223 seconds 
+  Import took 0.040389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/FONTS/Rubik-MediumItalic.ttf
+  artifactKey: Guid(07d999133763f254496928c0d036f379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-MediumItalic.ttf using Guid(07d999133763f254496928c0d036f379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f759d5b8016f14ff00f2bf87eb2408') in 0.050736 seconds 
+  Import took 0.079194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.181717 seconds.
+  path: Assets/FONTS/Nunito-Black.ttf
+  artifactKey: Guid(33f20d946def49f48b17e293d445e9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-Black.ttf using Guid(33f20d946def49f48b17e293d445e9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e2d8815a96b1bdc3dc8d896033a813') in 0.077259 seconds 
+  Import took 0.118551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/FONTS/Nunito-ExtraLightItalic.ttf
+  artifactKey: Guid(bd77624cc6870084ca5a64bb848e8878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-ExtraLightItalic.ttf using Guid(bd77624cc6870084ca5a64bb848e8878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea4f15936e9d3c1464a61bb7e254d884') in 0.056060 seconds 
+  Import took 0.121065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001071 seconds.
+  path: Assets/FONTS/Nunito-ExtraLight.ttf
+  artifactKey: Guid(5ad10059f1f2a6345b22ea4a293596d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-ExtraLight.ttf using Guid(5ad10059f1f2a6345b22ea4a293596d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd589654ebaf9682577b43b4cade71077') in 0.031914 seconds 
+  Import took 0.053220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/FONTS/Nunito-Regular.ttf
+  artifactKey: Guid(6a2e44a6562c1f342829a7ce2d72f377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-Regular.ttf using Guid(6a2e44a6562c1f342829a7ce2d72f377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967df846ab8e24b099b6661cf8297b8e') in 0.028488 seconds 
+  Import took 0.039408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/FONTS/Nunito-Italic.ttf
+  artifactKey: Guid(2032d6abebeeea545ace6a12ccaeb222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-Italic.ttf using Guid(2032d6abebeeea545ace6a12ccaeb222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e9c2efaf519602517389aa9b8c7c85') in 0.116567 seconds 
+  Import took 0.160235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/FONTS/Nunito-BlackItalic.ttf
+  artifactKey: Guid(c97f662b19cd87946afe12f312cc0142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-BlackItalic.ttf using Guid(c97f662b19cd87946afe12f312cc0142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a476bd6ad9548aa739356fb75fad380') in 0.027261 seconds 
+  Import took 0.043900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/FONTS/Nunito-Bold.ttf
+  artifactKey: Guid(cf1ca7c3387895c4b9d54e7f6d7ede30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-Bold.ttf using Guid(cf1ca7c3387895c4b9d54e7f6d7ede30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a88997426c9eabbcb8b5285ec70cd97') in 0.092521 seconds 
+  Import took 0.108513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/FONTS/Nunito-LightItalic.ttf
+  artifactKey: Guid(0944b949bd755444b821d2f20f323db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-LightItalic.ttf using Guid(0944b949bd755444b821d2f20f323db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e6986f31ad4573f83d37ada3185527') in 0.034805 seconds 
+  Import took 0.049547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/FONTS/Nunito-ExtraBold.ttf
+  artifactKey: Guid(2d099f1dd9811bf42bc83e401537d91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-ExtraBold.ttf using Guid(2d099f1dd9811bf42bc83e401537d91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b65a3ec3088b87780b307deba726a07') in 0.031262 seconds 
+  Import took 0.042391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001764 seconds.
+  path: Assets/FONTS/Nunito-Light.ttf
+  artifactKey: Guid(22d77b31d40d9264a8e684e7a260ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-Light.ttf using Guid(22d77b31d40d9264a8e684e7a260ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9924f480e77fe9e50e972bcd9403c7') in 0.145394 seconds 
+  Import took 0.154736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000639 seconds.
+  path: Assets/FONTS/Nunito-BoldItalic.ttf
+  artifactKey: Guid(526628bf3ee7717418e00cfad78425d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-BoldItalic.ttf using Guid(526628bf3ee7717418e00cfad78425d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c00735db633686011926b45ff306fc') in 0.030577 seconds 
+  Import took 0.040252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/FONTS/Nunito-ExtraBoldItalic.ttf
+  artifactKey: Guid(21deb971fb2957c46a83e6069bfd4309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-ExtraBoldItalic.ttf using Guid(21deb971fb2957c46a83e6069bfd4309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b07b13e109d8cc12e3bc84658958e52') in 0.076067 seconds 
+  Import took 0.088288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.383904 seconds.
+  path: Assets/FONTS/Harmond-ExtBdItaExp.otf
+  artifactKey: Guid(8b871d46e55944a43b1c6ff9eec0103f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Harmond-ExtBdItaExp.otf using Guid(8b871d46e55944a43b1c6ff9eec0103f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7534e48aafbd91e2b31a11858e2761e6') in 0.068202 seconds 
+  Import took 0.117611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001348 seconds.
+  path: Assets/FONTS/Harmond-SemiBoldCondensed.otf
+  artifactKey: Guid(f5fc071c64ff45d4b8f3fa7fa05bf7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Harmond-SemiBoldCondensed.otf using Guid(f5fc071c64ff45d4b8f3fa7fa05bf7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d55db4f1e36cf2597c4e950a451a41') in 0.033514 seconds 
+  Import took 0.119645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/FONTS/Harmond-ExtraBoldExpanded.otf
+  artifactKey: Guid(7f576e821c127344597caba7a431ff65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Harmond-ExtraBoldExpanded.otf using Guid(7f576e821c127344597caba7a431ff65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bbf8f500c8b719e6a68ed9b8adda520') in 0.030744 seconds 
+  Import took 0.037210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/FONTS/Harmond-SemBdItaCond.otf
+  artifactKey: Guid(0a9e12fc7a04b1640a3d620fb9c9c021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Harmond-SemBdItaCond.otf using Guid(0a9e12fc7a04b1640a3d620fb9c9c021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1d40aac1e9a9ed04e148be982d5ee0') in 0.028252 seconds 
+  Import took 0.034067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.854337 seconds.
+  path: Assets/FONTS/Nunito-SemiBold.ttf
+  artifactKey: Guid(7da696aa5e97ed64187046dd3120b9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-SemiBold.ttf using Guid(7da696aa5e97ed64187046dd3120b9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60637adf4164e6bc2ad840fdbafb8e9d') in 0.024220 seconds 
+  Import took 0.033387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001228 seconds.
+  path: Assets/FONTS/Nunito-SemiBoldItalic.ttf
+  artifactKey: Guid(f1b8064273807134dbfa53c009a1dcac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-SemiBoldItalic.ttf using Guid(f1b8064273807134dbfa53c009a1dcac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c2a611f1689f9e87ac70b728f86540') in 0.050779 seconds 
+  Import took 0.061255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013355 seconds.
+  path: Assets/FONTS/Nunito-SemiBoldItalic.ttf
+  artifactKey: Guid(f1b8064273807134dbfa53c009a1dcac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Nunito-SemiBoldItalic.ttf using Guid(f1b8064273807134dbfa53c009a1dcac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c2a611f1689f9e87ac70b728f86540') in 0.132435 seconds 
+  Import took 0.143182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.267932 seconds.
+  path: Assets/FONTS/Rubik-SemiBold.ttf
+  artifactKey: Guid(aed6d8ef23d361c4b92eb8328d6fe144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-SemiBold.ttf using Guid(aed6d8ef23d361c4b92eb8328d6fe144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095ed97cf1e3242b0ff1089c71714a17') in 0.060234 seconds 
+  Import took 0.104724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000717 seconds.
+  path: Assets/FONTS/Rubik-SemiBoldItalic.ttf
+  artifactKey: Guid(02d671dfeffc5c44487a72ddb398725f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FONTS/Rubik-SemiBoldItalic.ttf using Guid(02d671dfeffc5c44487a72ddb398725f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f57f531084e783cc1b15bb41c4d217d4') in 0.061151 seconds 
+  Import took 0.193733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 434.079667 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png
+  artifactKey: Guid(71ebafeef3c03457483266a33ab2b270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png using Guid(71ebafeef3c03457483266a33ab2b270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea08e4411f98851f91f00718d3ff46f') in 0.154261 seconds 
+  Import took 0.180036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png
+  artifactKey: Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png using Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600f97cdfd3edc6a1685d83d25fc157c') in 0.309981 seconds 
+  Import took 0.319619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-dark.png
+  artifactKey: Guid(8e3ec2dfd58b79842aa78376678a9a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/back-dark.png using Guid(8e3ec2dfd58b79842aa78376678a9a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6418a2c11981f0acf802666f81ff2714') in 0.108932 seconds 
+  Import took 0.144932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark.png
+  artifactKey: Guid(1a4f52b613391cd449af3ad2e44affeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark.png using Guid(1a4f52b613391cd449af3ad2e44affeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c50c6b02d9b73c5e2e4a85549794a4') in 0.412339 seconds 
+  Import took 0.428732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark@2x.png
+  artifactKey: Guid(c223e0c507e2c6549a2cb97441b62cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-dark@2x.png using Guid(c223e0c507e2c6549a2cb97441b62cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9424499d8ed03e8df785259fedae1b3') in 0.200661 seconds 
+  Import took 0.214874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light@2x.png
+  artifactKey: Guid(ec2e3aa6d0ab8ce4eac29b56d65d61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light@2x.png using Guid(ec2e3aa6d0ab8ce4eac29b56d65d61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4de0a7a5e4ce4511bc09095573cae8b') in 0.099133 seconds 
+  Import took 0.111691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light.png
+  artifactKey: Guid(397fff6c3885f8343bb65714f0064b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/Editor/Collaborate/Assets/Icons/added-file-light.png using Guid(397fff6c3885f8343bb65714f0064b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c673a4f73ecb39b34c0c364ab5d41a87') in 0.297760 seconds 
+  Import took 0.315448 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.050088 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.615 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.5 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2570.
+Total: 5.157200 ms (FindLiveObjects: 0.443000 ms CreateObjectMapping: 0.179600 ms MarkObjects: 4.263600 ms  DeleteObjects: 0.268400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020993 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.812 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.5 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2574.
+Total: 10.861000 ms (FindLiveObjects: 1.717300 ms CreateObjectMapping: 0.518600 ms MarkObjects: 8.388400 ms  DeleteObjects: 0.234300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020191 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.230 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.5 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 6.273600 ms (FindLiveObjects: 0.451500 ms CreateObjectMapping: 0.237100 ms MarkObjects: 5.377800 ms  DeleteObjects: 0.204800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014432 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.06 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.011 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.5 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 8.197500 ms (FindLiveObjects: 0.899400 ms CreateObjectMapping: 0.249500 ms MarkObjects: 6.771100 ms  DeleteObjects: 0.274700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3537.826541 seconds.
+  path: Assets/Animation/gamename_ani.anim
+  artifactKey: Guid(537fb8bb82cd5594999e1962385c02b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/gamename_ani.anim using Guid(537fb8bb82cd5594999e1962385c02b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000ee3230cdd0f37e33ff7db57a12038') in 0.150093 seconds 
+  Import took 0.171651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 384.750970 seconds.
+  path: Assets/Escena/選單的配置.mat
+  artifactKey: Guid(fd8ac5b015a4b2747ab08d228c499586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escena/選單的配置.mat using Guid(fd8ac5b015a4b2747ab08d228c499586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55839aff077214347dd37dd2101a3ca7') in 0.393445 seconds 
+  Import took 0.421514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 736.682846 seconds.
+  path: Assets/Escena/選單的配置.mat
+  artifactKey: Guid(fd8ac5b015a4b2747ab08d228c499586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escena/選單的配置.mat using Guid(fd8ac5b015a4b2747ab08d228c499586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f1aabacbb5fbb79bae903c0aa8202a') in 0.084622 seconds 
+  Import took 0.092902 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.911 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.7 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2588.
+Total: 8.230700 ms (FindLiveObjects: 0.542200 ms CreateObjectMapping: 0.969000 ms MarkObjects: 6.446700 ms  DeleteObjects: 0.269300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1248.987787 seconds.
+  path: Assets/Animation/Logo_gamename_text.controller
+  artifactKey: Guid(a5dd24283fb40f9458d6e095e1cb843d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Logo_gamename_text.controller using Guid(a5dd24283fb40f9458d6e095e1cb843d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4df4c630c210f354c63b700e4e20d3') in 0.046734 seconds 
+  Import took 0.140576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 586.656796 seconds.
+  path: Assets/Animation/gamename_ani.anim
+  artifactKey: Guid(537fb8bb82cd5594999e1962385c02b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/gamename_ani.anim using Guid(537fb8bb82cd5594999e1962385c02b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9918f70cfd19a2340cb6901134f9e5b') in 0.074456 seconds 
+  Import took 0.417833 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020600 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.340 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.8 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2592.
+Total: 13.708000 ms (FindLiveObjects: 1.527200 ms CreateObjectMapping: 0.284900 ms MarkObjects: 10.347600 ms  DeleteObjects: 1.537400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
