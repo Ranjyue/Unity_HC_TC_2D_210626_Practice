@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 89208944d3c95424286be3927bb6f773
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hamurz Free Version
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 336406aafeb921d4aa682479ef5269fc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
